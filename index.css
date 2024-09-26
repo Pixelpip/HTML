@@ -6,9 +6,8 @@ h1{
 
 .parent-grid{
     display: flex;
-    max-width: fit-content;
-    margin-left: auto;
-    margin-right: auto;
+    justify-content: center;
+    align-items: center;
 }
 .black{
     background-color: #292f30;
